@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://lanes-marion-perception-liver.trycloudflare.com",
+  "subdomain": "https://producing-attitudes-yards-passenger.trycloudflare.com",
   "update_required": false
 }
