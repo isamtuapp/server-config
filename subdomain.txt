@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://new-cloudflare-subdomain.trycloudflare.com",
+  "subdomain": "https://lanes-marion-perception-liver.trycloudflare.com",
   "update_required": false
 }
