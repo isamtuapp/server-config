@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://debian-warner-wan-partition.trycloudflare.com",
+  "subdomain": "https://adjustable-racing-exact-moderate.trycloudflare.com",
   "update_required": false
 }
