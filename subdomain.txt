@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://producing-attitudes-yards-passenger.trycloudflare.com",
+  "subdomain": "https://debian-warner-wan-partition.trycloudflare.com",
   "update_required": false
 }
