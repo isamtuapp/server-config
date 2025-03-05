@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://adjustable-racing-exact-moderate.trycloudflare.com",
+  "https://playback-shapes-er-moderator.trycloudflare.com",
   "update_required": false
 }
