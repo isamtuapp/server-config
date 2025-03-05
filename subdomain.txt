@@ -1,4 +1,4 @@
 {
-  "https://playback-shapes-er-moderator.trycloudflare.com",
+  "subdomain": "https://playback-shapes-er-moderator.trycloudflare.com",
   "update_required": false
 }
