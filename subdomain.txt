@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://playback-shapes-er-moderator.trycloudflare.com",
+  "subdomain": "https://lf-intense-blue-cottages.trycloudflare.com",
   "update_required": false
 }
