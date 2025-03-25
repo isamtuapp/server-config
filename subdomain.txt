@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://lf-intense-blue-cottages.trycloudflare.com",
+  "subdomain": "https://objects-brief-tutorial-economic.trycloudflare.com",
   "update_required": false
 }
