@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://objects-brief-tutorial-economic.trycloudflare.com",
+  "subdomain": "https://guinea-afternoon-belgium-ms.trycloudflare.com",
   "update_required": false
 }
