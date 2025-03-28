@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://guinea-afternoon-belgium-ms.trycloudflare.com",
+  "subdomain": "https://mainland-sport-phones-opinion.trycloudflare.com",
   "update_required": false
 }
