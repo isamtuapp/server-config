@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://mainland-sport-phones-opinion.trycloudflare.com",
+  "subdomain": "https://ellen-gen-usc-vital.trycloudflare.com",
   "update_required": false
 }
