@@ -1,6 +1,6 @@
 {
   "subdomain": "https://ellen-gen-usc-vital.trycloudflare.com",
-  "update_required": true,
+  "update_required": false,
   "update_url": "https://t.me/qmtu_express",
   "min_version_code": 2
 }
