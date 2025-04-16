@@ -1,4 +1,4 @@
 {
   "subdomain": "https://ellen-gen-usc-vital.trycloudflare.com",
-  "update_required": false
+  "min_app_version": 2
 }
