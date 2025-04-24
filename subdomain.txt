@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://ellen-gen-usc-vital.trycloudflare.com",
+  "subdomain": "https://heads-zus-anonymous-spy.trycloudflare.com",
   "min_app_version": 3
 }
