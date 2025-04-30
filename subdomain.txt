@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://heads-zus-anonymous-spy.trycloudflare.com",
+  "subdomain": "https://taught-craps-dark-trinidad.trycloudflare.com",
   "min_app_version": 3
 }
