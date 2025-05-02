@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://taught-craps-dark-trinidad.trycloudflare.com",
+  "subdomain": "https://matching-determination-those-reviewer.trycloudflare.com",
   "min_app_version": 3
 }
