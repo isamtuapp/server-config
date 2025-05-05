@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://matching-determination-those-reviewer.trycloudflare.com",
+  "subdomain": "https://omaha-rid-laid-everyone.trycloudflare.com",
   "min_app_version": 3
 }
