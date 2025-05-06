@@ -1,3 +1,4 @@
 {
-  "subdomain": "https://temp-unnecessary-exhibit-pct.trycloudflare.com"
+  "subdomain": "https://temp-unnecessary-exhibit-pct.trycloudflare.com",
+  "min_app_version": 1
 }
