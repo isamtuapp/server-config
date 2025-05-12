@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://omaha-rid-laid-everyone.trycloudflare.com",
+  "subdomain": "https://several-textile-chart-pj.trycloudflare.com",
   "min_app_version": 3
 }
