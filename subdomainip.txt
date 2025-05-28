@@ -1,3 +1,3 @@
 {
-  "subdomain": "https://renewal-cheese-cosmetics-sustainable.trycloudflare.com"
+  "subdomain": "https://activists-slip-lower-nc.trycloudflare.com"
 }
