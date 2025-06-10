@@ -1,3 +1,3 @@
 {
-  "subdomain": "https://archive-mph-existence-elder.trycloudflare.com"
+  "subdomain": "https://nottingham-blade-organizer-doctor.trycloudflare.com"
 }
