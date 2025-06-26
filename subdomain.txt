@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://patrol-convinced-alternatives-space.trycloudflare.com",
+  "subdomain": "https://good-hobby-asin-incorporated.trycloudflare.com",
   "min_app_version": 3
 }
