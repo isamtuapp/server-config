@@ -1,3 +1,3 @@
 {
-  "subdomain": "https://legend-detection-pmid-relocation.trycloudflare.com"
+  "subdomain": "https://dir-briefs-argentina-writings.trycloudflare.com"
 }
