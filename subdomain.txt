@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://good-hobby-asin-incorporated.trycloudflare.com",
+  "subdomain": "https://kinds-attribute-enzyme-advertising.trycloudflare.com",
   "min_app_version": 3
 }
