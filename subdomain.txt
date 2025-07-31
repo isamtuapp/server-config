@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://kinds-attribute-enzyme-advertising.trycloudflare.com",
+  "subdomain": "https://cdt-happening-instant-flu.trycloudflare.com",
   "min_app_version": 3
 }
