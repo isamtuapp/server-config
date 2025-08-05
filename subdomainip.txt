@@ -1,3 +1,3 @@
 {
-  "subdomain": "https://international-goods-emotional-cam.trycloudflare.com"
+  "subdomain": "https://constraint-inquiries-reception-lawrence.trycloudflare.com"
 }
