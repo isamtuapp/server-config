@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://cdt-happening-instant-flu.trycloudflare.com",
+  "subdomain": "https://placement-h-gsm-institutes.trycloudflare.com",
   "min_app_version": 3
 }
