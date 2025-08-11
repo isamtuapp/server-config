@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://placement-h-gsm-institutes.trycloudflare.com",
+  "subdomain": "https://ward-banner-expenses-mental.trycloudflare.com",
   "min_app_version": 3
 }
