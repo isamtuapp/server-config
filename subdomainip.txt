@@ -1,3 +1,4 @@
 {
-  "subdomain": "https://loaded-meet-enclosure-skip.trycloudflare.com"
+  "subdomain": "https://loaded-meet-enclosure-skip.trycloudflare.com",
+  "version": 1
 }
