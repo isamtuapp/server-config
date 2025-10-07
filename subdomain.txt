@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://montreal-brandon-lies-mag.trycloudflare.com",
+  "subdomain": "https://practices-phoenix-hygiene-expert.trycloudflare.com",
   "min_app_version": 4
 }
