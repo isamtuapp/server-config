@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://hypothetical-incredible-hang-las.trycloudflare.com",
+  "subdomain": "https://bundle-quality-last-committed.trycloudflare.com",
   "version": 2
 }
