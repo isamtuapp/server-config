@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://closes-rough-criterion-crawford.trycloudflare.com",
+  "subdomain": "https://hypothetical-incredible-hang-las.trycloudflare.com",
   "version": 2
 }
