@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://pictures-montana-shaft-bulk.trycloudflare.com",
+  "subdomain": "https://amount-satisfactory-written-sublime.trycloudflare.com",
   "version": 2
 }
