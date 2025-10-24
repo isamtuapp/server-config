@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://starting-christopher-artificial-commander.trycloudflare.com",
+  "subdomain": "https://rev-classified-warned-blair.trycloudflare.com",
   "version": 2
 }
