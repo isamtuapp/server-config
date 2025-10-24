@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://upgrading-metabolism-heading-swing.trycloudflare.com",
+  "subdomain": "https://buying-ssl-reuters-wins.trycloudflare.com",
   "version": 2
 }
