@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://proposal-percent-proxy-nirvana.trycloudflare.com",
+  "subdomain": "https://pictures-montana-shaft-bulk.trycloudflare.com",
   "version": 2
 }
