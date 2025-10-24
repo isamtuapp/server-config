@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://chocolate-bandwidth-hitachi-territories.trycloudflare.com",
+  "subdomain": "https://districts-alpha-developments-deserve.trycloudflare.com",
   "min_app_version": 4
 }
