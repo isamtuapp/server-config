@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://amount-satisfactory-written-sublime.trycloudflare.com",
+  "subdomain": "https://starting-christopher-artificial-commander.trycloudflare.com",
   "version": 2
 }
