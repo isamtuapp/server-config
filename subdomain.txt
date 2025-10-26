@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://combining-ballot-corn-reliability.trycloudflare.com",
+  "subdomain": "https://saw-crops-excellence-dose.trycloudflare.com",
   "min_app_version": 4
 }
