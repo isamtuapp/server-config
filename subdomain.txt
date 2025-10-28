@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://socket-templates-alive-wishing.trycloudflare.com",
+  "subdomain": "https://lights-chorus-bearing-draws.trycloudflare.com",
   "min_app_version": 4
 }
