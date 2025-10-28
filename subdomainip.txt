@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://newbie-reviewer-aspect-miss.trycloudflare.com",
+  "subdomain": "https://studying-twiki-surrounded-mini.trycloudflare.com",
   "version": 2
 }
