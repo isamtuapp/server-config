@@ -1,4 +1,4 @@
 {
   "subdomain": "https://studying-twiki-surrounded-mini.trycloudflare.com",
-  "version": 30
+  "version": 2
 }
