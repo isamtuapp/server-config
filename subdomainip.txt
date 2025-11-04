@@ -1,4 +1,4 @@
 {
   "subdomain": "https://tubes-chronic-clan-chicken.trycloudflare.com",
-  "version": 2
+  "version": 3
 }
