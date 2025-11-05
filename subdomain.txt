@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://jose-discussing-quick-expanding.trycloudflare.com",
+  "subdomain": "https://jews-simulation-aspect-tier.trycloudflare.com",
   "min_app_version": 4
 }
