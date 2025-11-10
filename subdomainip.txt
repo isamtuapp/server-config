@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://primary-nursing-porcelain-key.trycloudflare.com",
+  "subdomain": "https://parade-sessions-asthma-principal.trycloudflare.com",
   "version": 5
 }
