@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://jews-simulation-aspect-tier.trycloudflare.com",
+  "subdomain": "https://helena-hydrogen-smtp-manufactured.trycloudflare.com",
   "min_app_version": 4
 }
