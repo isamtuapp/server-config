@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://parade-sessions-asthma-principal.trycloudflare.com",
+  "subdomain": "https://consulting-descriptions-promised-oklahoma.trycloudflare.com",
   "version": 6
 }
