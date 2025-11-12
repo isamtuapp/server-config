@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://helena-hydrogen-smtp-manufactured.trycloudflare.com",
+  "subdomain": "https://canvas-ray-grab-roberts.trycloudflare.com",
   "min_app_version": 4
 }
