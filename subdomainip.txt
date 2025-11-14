@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://consulting-descriptions-promised-oklahoma.trycloudflare.com",
+  "subdomain": "https://booth-stable-wilderness-postal.trycloudflare.com",
   "version": 6
 }
