@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://las-launch-displayed-thru.trycloudflare.com",
+  "subdomain": "https://robbie-discrimination-republicans-mission.trycloudflare.com",
   "min_app_version": 4
 }
