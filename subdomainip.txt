@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://booth-stable-wilderness-postal.trycloudflare.com",
+  "subdomain": "https://dive-dentists-simulations-casino.trycloudflare.com",
   "version": 6
 }
