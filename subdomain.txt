@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://robbie-discrimination-republicans-mission.trycloudflare.com",
+  "subdomain": "https://flyer-moral-facilitate-roommates.trycloudflare.com",
   "min_app_version": 4
 }
