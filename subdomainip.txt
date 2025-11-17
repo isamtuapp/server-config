@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://dive-dentists-simulations-casino.trycloudflare.com",
+  "subdomain": "https://towers-appliance-spy-michigan.trycloudflare.com",
   "version": 6
 }
