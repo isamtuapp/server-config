@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://flyer-moral-facilitate-roommates.trycloudflare.com",
+  "subdomain": "https://written-solo-peterson-prayer.trycloudflare.com",
   "min_app_version": 4
 }
