@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://towers-appliance-spy-michigan.trycloudflare.com",
+  "subdomain": "https://opt-distribution-passport-temporary.trycloudflare.com",
   "version": 6
 }
