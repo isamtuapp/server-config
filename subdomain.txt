@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://written-solo-peterson-prayer.trycloudflare.com",
+  "subdomain": "https://mathematics-filtering-ventures-config.trycloudflare.com",
   "min_app_version": 4
 }
