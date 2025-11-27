@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://opt-distribution-passport-temporary.trycloudflare.com",
+  "subdomain": "https://ken-passed-democracy-sussex.trycloudflare.com",
   "version": 6
 }
