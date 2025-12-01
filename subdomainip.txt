@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://ken-passed-democracy-sussex.trycloudflare.com",
+  "subdomain": "https://aus-pixels-your-explore.trycloudflare.com",
   "version": 6
 }
