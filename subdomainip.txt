@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://aus-pixels-your-explore.trycloudflare.com",
+  "subdomain": "https://sean-attach-morris-shots.trycloudflare.com",
   "version": 6
 }
