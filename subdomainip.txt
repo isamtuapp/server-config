@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://thought-daisy-finding-astronomy.trycloudflare.com",
+  "subdomain": "https://ipapp.iktkokand.com.uz",
   "version": 6
 }
