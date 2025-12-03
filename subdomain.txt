@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://sure-dealer-most-ver.trycloudflare.com",
+  "subdomain": "https://mtuapp.iktkokand.com.uz",
   "min_app_version": 4
 }
