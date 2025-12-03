@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://budget-lone-ratio-unix.trycloudflare.com",
+  "subdomain": "https://sure-dealer-most-ver.trycloudflare.com",
   "min_app_version": 4
 }
