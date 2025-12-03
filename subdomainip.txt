@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://wireless-providers-rankings-prototype.trycloudflare.com",
+  "subdomain": "https://equally-lone-champions-bra.trycloudflare.com",
   "version": 6
 }
