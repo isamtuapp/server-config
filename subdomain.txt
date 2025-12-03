@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://footwear-inclusion-hopes-casinos.trycloudflare.com",
+  "subdomain": "https://reflections-bind-lloyd-speaker.trycloudflare.com",
   "min_app_version": 4
 }
