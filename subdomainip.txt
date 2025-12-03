@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://headphones-trained-eddie-holland.trycloudflare.com",
+  "subdomain": "https://wireless-providers-rankings-prototype.trycloudflare.com",
   "version": 6
 }
