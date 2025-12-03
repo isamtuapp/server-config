@@ -1,4 +1,4 @@
 {
-  "subdomain": "https://reflections-bind-lloyd-speaker.trycloudflare.com",
+  "subdomain": "https://budget-lone-ratio-unix.trycloudflare.com",
   "min_app_version": 4
 }
