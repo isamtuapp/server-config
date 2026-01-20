@@ -1,3 +1,0 @@
-{
-  "subdomain": "https://workapp.iktkokand.com.uz"
-}
