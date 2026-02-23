@@ -1,4 +1,4 @@
 {
   "subdomain": "https://mtuapp.iktkokand.com.uz",
-  "min_app_version": 6
+  "min_app_version": 7
 }
