@@ -1,4 +1,4 @@
 {
   "subdomain": "https://ipapp.iktkokand.com.uz",
-  "version": 7
+  "version": 8
 }
