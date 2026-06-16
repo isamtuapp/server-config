@@ -1,4 +1,5 @@
 {
   "subdomain": "https://mtuapp.iktkokand.com.uz",
+  "node_subdomain": "https://iktkokand.com.uz",
   "min_app_version": 7
 }
